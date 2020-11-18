@@ -1,0 +1,4 @@
+1 setup the environment
+3 redirections
+4 manipulations
+csao
